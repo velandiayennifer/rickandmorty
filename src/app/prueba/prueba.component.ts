@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
   styleUrl: './prueba.component.css'
 })
 export class PruebaComponent {
-
+ mensaje: string ="Hola"
 }
